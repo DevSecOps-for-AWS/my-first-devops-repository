@@ -36,6 +36,7 @@ def home():
         <div class="card">
             <h1>Hello from AWS CodeDeploy!</h1>
             <h2>Application Started Successfully ✅</h2>
+            <h1>Application Started Successfully with Version2 Release ✅</h1>           
             <p>CI/CD Pipeline: GitHub → CodeBuild → CodeDeploy → EC2</p>
         </div>
     </body>
